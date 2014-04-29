@@ -1,4 +1,4 @@
-pyscript
+script
 ========
 
-use python like javascripyt in html
+python and other language scripts
